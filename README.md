@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashvinee Sasamkar  
 
-<!--
-**ashusasamkar/ashusasamkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter Developer | 📱 Mobile App Engineer | 🚀 6+ years experience  
 
-Here are some ideas to get you started:
+I specialize in building cross-platform mobile apps using Flutter, BLoC, MVVM, and Clean Architecture.  
+Passionate about integrating AI, Firebase, and modern mobile technologies to deliver scalable apps.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** Dart, Java  
+- **Frameworks:** Flutter, Provider, BLoC, GetX  
+- **Architecture:** MVVM, Clean Architecture, SOLID Principles  
+- **Databases:** SQLite, Hive, Firebase Firestore  
+- **Others:** Firebase, REST APIs, GraphQL, CI/CD ,Unit Testing
+
+---
+
+## 📌 Featured Projects
+Here are some of my key projects (more in pinned repos 👇):
+
+- 🤖 [Flutter + AI Demos](https://github.com/ashusasamkar/flutter-ai-demos)  
+   Mini projects integrating AI features in Flutter
+
+
+---
+
+## 📈 GitHub Stats  
+![Ashvinee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashusasamkar&show_icons=true&theme=radical)  
+
+---
+📫 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/ashvinee-sasamkar-38263894/)    
