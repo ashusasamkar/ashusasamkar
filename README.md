@@ -19,7 +19,7 @@ Passionate about integrating AI, Firebase, and modern mobile technologies to del
 ## 📌 Featured Projects
 Here are some of my key projects (more in pinned repos 👇):
 
-- 🤖 [Flutter + AI Demos](https://github.com/ashusasamkar/flutter-ai-demos)  
+- 🤖 [Flutter + AI Demos](https://github.com/ashusasamkar/flutter-ai-gemini-powered-demo)  
    Mini projects integrating AI features in Flutter
 
 
