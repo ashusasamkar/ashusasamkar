@@ -22,6 +22,8 @@ Here are some of my key projects (more in pinned repos 👇):
 - 🤖 [Flutter + AI Demos](https://github.com/ashusasamkar/flutter-ai-gemini-powered-demo)  
    Mini projects integrating AI features in Flutter
 
+- 🤖 [Todo App](https://github.com/ashusasamkar/todo_app)  
+   Todo app in Flutter
 
 ---
 
