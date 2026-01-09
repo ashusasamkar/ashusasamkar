@@ -23,7 +23,10 @@ Here are some of my key projects (more in pinned repos 👇):
    Mini projects integrating AI features in Flutter
 
 - 🤖 [Todo App](https://github.com/ashusasamkar/todo_app)  
-   Todo app in Flutter
+   Todo app in Flutter Clean Architecture, Bloc State Management,Injectable(Modular approach), Dependency Injection
+
+- 🤖 [String Calculator App](https://github.com/ashusasamkar/string_calculator_tdd)  
+   String Calculator app in Flutter with TDD, Clean Architecture, Bloc(Cubit)
 
 ---
 
